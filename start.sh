@@ -1,4 +1,4 @@
 #!/bin/bash
 cd Programm
-./start.sh
+python3 main.py
 exit 0
